@@ -6,7 +6,7 @@ License
 -------
 Use of an product is bound by the license you purchase. A license grants you a non-exclusive and non-transferable right to use and incorporate the item in your personal or commercial projects. 
 
-Free Site License:
+Free Site License: 
 ------------------
 CC 3.0 All of the site templates we create for WebThemez are licensed under the Creative Commons Attribution 4.0 License, which means you can:
  - You can use our templates for both personal and commercial projects. 
