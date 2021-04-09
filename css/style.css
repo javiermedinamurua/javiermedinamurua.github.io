@@ -12,7 +12,7 @@ html {
 ::-webkit-scrollbar-track { background: rgba(0, 0, 0, 0.1); }
 ::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.5); }
 
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) {
     .container { width: 1100px }
 }
 h1 {
@@ -104,7 +104,7 @@ a:focus {
 #header .breadcrumb > li a { color: #ffffff }
 /* Home Style */
 #home {
-    background: url(../img/fondo.jpg);
+    background: url(../img/fondo.jpeg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -388,7 +388,7 @@ h4.media-heading {
 
 #about a:hover{
     text-decoration:underline;
-} 
+}
 
 #about .btn-theme.transparent {
     font-size:18px;
@@ -485,7 +485,7 @@ ul.social li a.fa:hover { background-color: #333333 }
     -ms-transform: translateX(0px) translateY(0%);
     -o-transform: translateX(0px) translateY(0%);
 }
-/*.count-box .hover-bg{ 
+/*.count-box .hover-bg{
   position: absolute;
   display: block;
   background-color: #FFCC32;
