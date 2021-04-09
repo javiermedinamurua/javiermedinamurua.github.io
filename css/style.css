@@ -27,7 +27,7 @@ h5 { font-size: 16px }
 p { font-size: 14px ;}
 a {
     color: inherit;
-    transition: all 0.5s;
+    transition: all 0.2s;
 }
 a:hover,
 a:focus {
@@ -104,7 +104,7 @@ a:focus {
 #header .breadcrumb > li a { color: #ffffff }
 /* Home Style */
 #home {
-    background: url(../img/bg/01.jpg);
+    background: url(../img/fondo.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
