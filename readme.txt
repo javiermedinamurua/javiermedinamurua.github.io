@@ -1,3 +1,9 @@
+Esta es mi página de internet donde me presento profesionalmente.
+
+Tambien incluyo la posibilidad de ver otras cosas no profesionales.
+
+
+
 Free Site License:
 ------------------
 
