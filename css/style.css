@@ -104,7 +104,7 @@ a:focus {
 #header .breadcrumb > li a { color: #ffffff }
 /* Home Style */
 #home {
-    background: url(../img/fondo.jpeg);
+    background: url(../img/fondo.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
