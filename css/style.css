@@ -32,9 +32,9 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #ffcc33;
+    color: #f9f95c97;
 }
-.highlight { color: #38A5DB;}
+.highlight { color: #f9f95c97;}
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -49,7 +49,7 @@ a:focus {
 /* Navigation */
 #menu {
     margin-bottom: 0;
-    background-color: #f9d66197;
+    background-color: #f9f95c97;
     padding: 10px 0;
     height: auto;
     border: 0px;
